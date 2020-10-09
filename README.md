@@ -9,3 +9,7 @@ I simplified the stylesheet and arranged it in the way I would think would be ap
 I fixed the links so they go to the appropriate place. I made sure the title was correct and appropriate and that the imgs all had alt titles. 
 
 I am wondering if I should be trying to add more search engine optimization - I might take a moment and research to see if I should be adding additional tags somewhere for google. I remember briefly reading it in the module earlier. 
+
+I have now realized that in order for the website to properly deploy I have to remove the files from the Develop folder. Will do this later!
+
+
